@@ -1,0 +1,19 @@
+ul {
+  margin-bottom: 30px;
+}
+
+.jumbotron {
+  margin-top: 50px;
+}
+
+.jumbotron p {
+  margin-top: 15px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
+
+
